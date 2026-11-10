@@ -4,7 +4,7 @@
 //
 // Secret（JWT_SECRET / ADMIN_PASS / ALLOW_URLS / MYSQL_URLS / EO_KV_URLS / CF_* 等）请在
 // .dev.vars.example 或 .env.example 中声明 —— 部署按钮据此生成输入项，
-// 用户填入的值会成为该 Worker 的 Secret，后续更新不会被覆盖。
+// 用户填入的值会成为该 Worker 的 Secret，后续更新不会被覆盖。.
 // =============================================================================
 {
   "name": "openlist-worker",
